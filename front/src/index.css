@@ -1,0 +1,35 @@
+.rock{
+  background-color: green;
+  padding: 10px;
+  margin-right: 10px;
+}
+.paper{
+  background-color: white;
+  padding: 10px;
+  margin-right: 10px;
+}
+.sc{
+  background-color: red;
+  padding: 10px;
+  margin-right: 10px;
+}
+.player1{
+  margin-bottom: 20px;
+}
+.next{
+  background-color: blue;
+  margin-top: 20px;
+  padding: 15px;
+}
+.score{
+  font-size: 28px;
+  color: orange;
+}
+.round{
+  font-size: 30px;
+  color: brown;
+}
+.win{
+  color: aquamarine;
+  font-size: 35px;
+}
